@@ -1,4 +1,3 @@
-new txt
 test3 hello world
 aaa
 kfjdk
