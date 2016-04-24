@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 rebase test
-=======
-this is new haha
->>>>>>> parent of 426ef7b... jnew branch test
